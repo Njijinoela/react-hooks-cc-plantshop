@@ -12,6 +12,7 @@ Welcome to **Plantsy**! This is a plant store app that allows users to view, add
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Technologies Used](#technologies-used)
+- [Deployment](#deployment)
 
 ## Project Overview
 
@@ -31,7 +32,7 @@ The application is built using **React** for the frontend and a JSON server to h
 ### 1. Clone the repository
 
 ```bash
-git clone <git@github.com:Njijinoela/react-hooks-cc-plantshop.git>
+git clone <https://github.com/Njijinoela/react-hooks-cc-plantshop.git>
 cd react-hooks-cc-plantshop
 ```
 
@@ -191,8 +192,11 @@ Deletes a plant from the list.
 - **Backend**: JSON Server for simulating a REST API.
 - **Tools**: npm, Fetch API.
 
+## Deployment
+
+The app is deployed and accessible via this live link:  
+[Plantsy Live](https://spontaneous-sunshine-b01107.netlify.app/)
+
 ## License
 
 This project is licensed under the MIT License.
-
----

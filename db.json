@@ -35,6 +35,12 @@
       "image": "./images/aloe.jpg",
       "price": 15.99,
       "id": 8
+    },
+    {
+      "name": "ZZ Plant",
+      "image": "./images/zz-plant.jpg",
+      "price": 25.98,
+      "id": 9
     }
   ]
 }
